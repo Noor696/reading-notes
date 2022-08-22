@@ -40,7 +40,7 @@ When the state changes in the parent component
 
 A count, like (time). Because we need to change it constantly
 
-##References
+## References
 _______
 
 [https://www.javatpoint.com/](https://www.javatpoint.com/react-state-vs-props)
