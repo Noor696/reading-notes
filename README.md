@@ -12,4 +12,6 @@
 
 [Class 04: React and Forms](./class04.md)
 
+[Class 07: REST](./class07.md)
+
 ## Code 401 - Advanced Software Development
