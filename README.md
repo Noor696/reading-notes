@@ -14,4 +14,6 @@
 
 [Class 07: REST](./class07.md)
 
+[Class 08: APIs](./class08.md)
+
 ## Code 401 - Advanced Software Development
