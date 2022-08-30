@@ -16,4 +16,6 @@
 
 [Class 08: APIs](./class08.md)
 
+[Class 09: Functional Programming](./class09.md)
+
 ## Code 401 - Advanced Software Development
