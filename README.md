@@ -22,6 +22,10 @@
 
 [class 11: Mongo and Mongoose](./class11.md)
 
+[class 12: CRUD](./class12.md)
+
+[class 13: ](./class13.md)
+
 
 
 ## Code 401 - Advanced Software Development
