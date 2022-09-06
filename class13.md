@@ -28,9 +28,15 @@ Update and Delete.
 2. Create Model URIs
 
 3. Determine Resource Representations
- - 3.1. Collection Resource of Devices
- - 3.2. Single Device Resource
 
 4. Assigning HTTP Methods
 
 5. More Actions
+ 1) Logging
+ 2) Security
+ 3) Discovery etc.
+
+## References
+_______
+(1)
+[rest-api-design](https://restfulapi.net/rest-api-design-tutorial-with-example/)
