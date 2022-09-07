@@ -26,6 +26,8 @@
 
 [class 13: More CRUD](./class13.md)
 
+[class 13: Authentication](./class15.md)
+
 
 
 ## Code 401 - Advanced Software Development
