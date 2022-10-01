@@ -26,8 +26,12 @@
 
 [class 13: More CRUD](./class13.md)
 
-[class 13: Authentication](./class15.md)
+[class 15: Authentication](./class15.md)
 
 
 
 ## Code 401 - Advanced Software Development
+
+[Prep-02: Engineering Readings](./EngineeringReadings.md)
+
+[Prep-05: Jupyter Lab assignment](./JupyterLab.md)
