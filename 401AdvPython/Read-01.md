@@ -25,3 +25,7 @@ Some details about Python names and values:
 _______
 
 [Python names and values ](https://nedbatchelder.com/text/names.html)
+
+[A friendly intro to Big O Notation](https://www.codenewbie.org/basecs/8)
+
+[Ned Batchelder - Facts and Myths about Python names and values - PyCon 2015](https://www.youtube.com/watch?v=_AEJHKGk9ns)
