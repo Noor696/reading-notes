@@ -32,6 +32,8 @@
 
 ## Code 401 - Advanced Software Development
 
-[Prep-02: Engineering Readings](./Prep-02.md)
+[Prep-02: Engineering Readings](./401AdvPython/Prep-02.md)
 
-[Prep-05: Jupyter Lab assignment](./Prep-05.md)
+[Prep-05: Jupyter Lab assignment](./401AdvPython/Prep-05.md)
+
+[Read 01 - Intro to Python](./401AdvPython/Read-01.md)
