@@ -37,3 +37,5 @@
 [Prep-05: Jupyter Lab assignment](./401AdvPython/Prep-05.md)
 
 [Read 01 - Intro to Python](./401AdvPython/Read-01.md)
+
+[Read 02 - Testing and Modules](./401AdvPython/Read.02.md)
