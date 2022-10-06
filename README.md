@@ -40,3 +40,5 @@
 
 [Read 02 - Testing and Modules](./401AdvPython/Read.02.md)
 
+[Read 03 - Whiteboarding + Big O](./401AdvPython/Read-03.md)
+
