@@ -42,3 +42,5 @@
 
 [Read 03 - Whiteboarding + Big O](./401AdvPython/Read-03.md)
 
+[Read 04 - FileIO & Exceptions](./401AdvPython/Read-04.md)
+
