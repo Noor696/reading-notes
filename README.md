@@ -46,3 +46,7 @@
 
 [Read 05 - Intro to OOP](./401AdvPython/Read-05.md)
 
+[Read 06 - OOP Part02](./401AdvPython/Read_06.md)
+
+[Read 07 - Data Analysis](./401AdvPython/Read_07.md)
+
