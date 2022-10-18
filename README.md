@@ -50,3 +50,5 @@
 
 [Read 07 - Data Analysis](./401AdvPython/Read_07.md)
 
+[Read 09 - LinkedList](./401AdvPython/Read-09.md)
+
