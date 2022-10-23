@@ -54,3 +54,5 @@
 
 [Read 09 - LinkedList](./401AdvPython/Read-09.md)
 
+[Read 10 - Linear Regressions](./401AdvPython/Read-10.md)
+
