@@ -57,3 +57,5 @@
 [Read 10 - Linear Regressions](./401AdvPython/Read-10.md)
 
 [Read 11 - Data Visualization](./401AdvPython/Read-11.md)
+
+[Read 12 - Stack and Queue](./401AdvPython/Read-12.md)
