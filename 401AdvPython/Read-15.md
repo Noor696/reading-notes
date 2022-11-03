@@ -34,3 +34,8 @@ Different tree data structures allow quicker and easier access to the data as it
 ### Binary Trees in Python
 
 [Binary Trees in Python](https://www.educative.io/answers/binary-trees-in-python)
+
+* **binary tree** : A tree whose elements have at most two children
+
+* A node’s **left child** must have a **value less** than its parent’s value, and the node’s **right child** must have a **value greater** than its parent value.
+
