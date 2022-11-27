@@ -68,5 +68,7 @@
 
 [Read 16 - Cryptography](./401AdvPython/Read-16.md)
 
-[Read 16 - Automation](./401AdvPython/Read-17.md)
+[Read 17 - Automation](./401AdvPython/Read-17.md)
+
+[Read 19 - Intro to Django](./401AdvPython/Read-19.md)
 
