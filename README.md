@@ -72,3 +72,5 @@
 
 [Read 19 - Intro to Django](./401AdvPython/Read-19.md)
 
+[Read 20 -  Django Models](./401AdvPython/Read-20.md)
+
