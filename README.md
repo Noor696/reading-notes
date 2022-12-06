@@ -76,3 +76,6 @@
 
 [Read 22 -  Django CRUD and Forms](./401AdvPython/Read-22.md)
 
+[Read 23 -  Django Custom User](./401AdvPython/Read-23.md)
+
+
