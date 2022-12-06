@@ -21,6 +21,8 @@ Creating our **initial custom user model** requires four steps:
 * create new UserCreation and UserChangeForm
 * update the admin
 
+_______________________
+
 *  DjangoX, which is an open-source Django starter framework that includes a custom user model, email/password by default instead of username/email/password, social authentication, and more.
 
 * DjangoX can be installed via Pip, Pipenv, or Docker. 
