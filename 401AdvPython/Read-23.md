@@ -1,6 +1,6 @@
 ## Django Custom User
 
-### 
+
 [Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
 
 
@@ -12,4 +12,17 @@
 
 * So we'll use AbstractUser.
 
-**Custom User Model**
+
+
+Creating our **initial custom user model** requires four steps:
+
+* update django_project/settings.py
+* create a new CustomUser model
+* create new UserCreation and UserChangeForm
+* update the admin
+
+*  DjangoX, which is an open-source Django starter framework that includes a custom user model, email/password by default instead of username/email/password, social authentication, and more.
+
+* DjangoX can be installed via Pip, Pipenv, or Docker. 
+
+* To use Docker with PostgreSQL as the database update the DATABASES section of django_project/settings.py 
