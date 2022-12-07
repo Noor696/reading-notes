@@ -78,4 +78,7 @@
 
 [Read 23 -  Django Custom User](./401AdvPython/Read-23.md)
 
+[Read 24 -  Hashtables](./401AdvPython/Read-24.md)
+
+
 
