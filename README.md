@@ -82,7 +82,7 @@
 
 [Read 25 -  Django REST Framework & Docker](./401AdvPython/Read-25.md)
 
-[Read 25 -  Permissions & Postgresql](./401AdvPython/Read-26.md)
+[Read 26 -  Permissions & Postgresql](./401AdvPython/Read-26.md)
 
 
 
