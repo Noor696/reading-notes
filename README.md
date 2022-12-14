@@ -84,5 +84,7 @@
 
 [Read 26 -  Permissions & Postgresql](./401AdvPython/Read-26.md)
 
+[Read 27 -  Graphs](./401AdvPython/Read-27.md)
+
 
 
