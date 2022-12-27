@@ -90,5 +90,7 @@
 
 [Read 29 - API Deployment](./401AdvPython/Read-29.md)
 
+[Read 31 - React Review/Component Based Architecture](./401AdvPython/Read-31.md)
+
 
 
