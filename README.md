@@ -92,5 +92,7 @@
 
 [Read 31 - React Review/Component Based Architecture](./401AdvPython/Read-31.md)
 
+[Read 32 - Intro to Next.js & Tailwind CSS](./401AdvPython/Read-32.md)
+
 
 
