@@ -94,5 +94,7 @@
 
 [Read 32 - Intro to Next.js & Tailwind CSS](./401AdvPython/Read-32.md)
 
+[Read 32 - Context API](./401AdvPython/Read-33.md)
+
 
 
