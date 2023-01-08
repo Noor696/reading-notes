@@ -96,5 +96,7 @@
 
 [Read 33 - Context API](./401AdvPython/Read-33.md)
 
+[Read 35 - Authentication](./401AdvPython/Read-35.md)
+
 
 
